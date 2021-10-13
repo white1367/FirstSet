@@ -1,0 +1,80 @@
+S ABC
+A a|Cb|;
+B C|dA|;
+C e|f|;
+END_OF_GRAMMAR
+
+
+
+
+
+
+
+S ACB|Cbb|Ba
+A da|BC
+B g|;
+C h|;
+END_OF_GRAMMAR
+
+
+
+
+
+
+S AC$
+C c|;
+A aBCd|BQ
+B bB|;
+Q q|;
+END_OF_GRAMMAR
+
+
+
+
+
+
+E TA$
+A aTA|;
+T FB
+B bFB|;
+F cEd|i
+END_OF_GRAMMAR
+
+
+
+
+S aBDh
+B cC
+C bC|;
+D EF
+E g|;
+F f|;
+END_OF_GRAMMAR
+
+
+
+
+
+S aBDh
+B Cc
+C bC|;
+D FE
+E g|;
+F f|;
+END_OF_GRAMMAR
+
+
+
+
+S AaAb|BbBa
+A ;
+B ;
+END_OF_GRAMMAR
+
+
+
+
+S AB
+A ;
+B a
+END_OF_GRAMMAR
